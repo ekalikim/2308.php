@@ -1,0 +1,18 @@
+*{
+	color: skyblue;
+}
+h1 {
+	color: red;
+}
+.font-color {
+	color: orange;
+	/* class */
+}
+/* 스판 태그에 이름을 붙혀 스판태그 안의 글에 css를 적용시킬 수 있다 */
+#p1 {
+	 color: black;
+	 /* id */
+}
+em, strong {
+	color: aqua;
+}

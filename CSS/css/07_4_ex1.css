@@ -1,0 +1,12 @@
+.cook1 {
+	list-style-type: none;
+	list-style-type: decimal;
+	list-style-type: upper-alpha; 
+	/* or lower-alpha */
+}
+.cook2 {
+	list-style-position: inside;
+}
+.cook3 {
+	list-style-image: url(../dd/6FNqwhdYRV6K4WZPu9Hxn-FFfUze0IkWdKDGfzTp5_XxcgP1XB1v1Xdy7_P6PZUWR479sEKVF5lczIL-OuHzFutZYa0eCgzzGDmd5F7V1jhmDkx_LiBlXIk3hz7TD3bHlzT3kBkydVbpuqDWj56-BA.webp);
+}

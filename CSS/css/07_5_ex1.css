@@ -1,0 +1,12 @@
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	caption-side: left;
+	/* border-spacing: 20px 5px; */
+}
+
+th, td {
+	border: 1px dotted #000;
+	width: 100px;
+
+}

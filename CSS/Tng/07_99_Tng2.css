@@ -1,0 +1,22 @@
+div{
+		border: 1px solid #000; width: 100%;
+		caption-side: center;
+}
+#aa{	background-color: #000;
+		color: white;
+}
+#red{
+		color: red;
+		font-size: 1.3em;
+}
+p{
+		text-align: center;
+		font-weight: 600;
+		font-size: 1em;
+}
+#bl{
+		color:blue;
+}
+.time{
+		font-size: 0.7em;
+}
