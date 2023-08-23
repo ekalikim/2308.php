@@ -1,0 +1,38 @@
+main, section, article {
+	padding: 20px;
+}
+main {
+	background-color: cadetblue;
+}
+section{
+	background-color: antiquewhite;
+}
+article {
+	background-color: darkgreen;
+	height: 1000px ;
+}
+.div_static{
+	background-color: lightcoral;
+	/* position: static; */
+}
+.div_relative{
+	background-color:aliceblue;
+	/* position: relative; */
+	/* left: -30; */
+}
+.div_absolute{
+	background-color:aqua;
+	/* position: absolute; */
+	/* html에서 최상위 계체는 relative를 가지고 있다. */
+}
+.div_fixed{
+	background-color:brown;
+	position: fixed;
+	bottom: 10%;
+	right: 50%;
+}
+.div_sticky{
+	background-color:blueviolet;
+	position: sticky;
+	top: 0;
+}
