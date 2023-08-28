@@ -1,0 +1,42 @@
+
+h1{
+	margin: 20px;
+
+}
+div {
+	width: 400px;
+	height: 200px;
+	border: 1px dotted #ccc;
+	margin: 20px;
+	padding: 20px;
+}
+.dh{
+	float: left;
+
+}
+.df{
+	float: left;
+
+}
+.bb{
+	clear: left;
+	float: left;
+
+}
+.ntl{
+	float: left;
+}
+section { 
+	width: 1000px;
+}
+footer {
+	border: 1px solid #000;
+	background-color: #000;
+	width: 920px;
+	height: 50px;
+	float: left;
+	color: white;
+	text-align: center;
+	margin: 20px;
+	line-height: 50px;
+}

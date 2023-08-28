@@ -1,0 +1,36 @@
+li{
+	float: left;
+	list-style: none;
+	padding: 10px;
+	background-color: gray;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+li:hover{
+	background-color: black;
+}
+.nav_ul :nth-child(6):hover {
+	background-color: red;
+}
+
+li:not(:first-child){
+	border-left: 1px solid green;
+}
+
+ul{
+	width: 370px;
+	box-shadow: 0px 3px 3px 3px black;
+	height: 40px;
+	padding:0 ;
+	margin-top:50px;
+	margin: auto;
+	box-sizing: border-box;
+	}
+a{
+	text-decoration: none;
+	color: black;
+}
+li:hover a
+{
+	color: aliceblue;
+}

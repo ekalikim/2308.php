@@ -1,0 +1,38 @@
+.gettoring {
+	background-color: #054141;
+	text-align: center;	
+	line-height: 100px;
+}
+body {
+	background-color: #000;
+}
+.section {
+	background-color: #fff;
+	width: 800px;
+	height: 1600px;
+	margin-left: 400px;
+	padding: 100px;
+}
+.welcomeing {
+	font-size: 2em;
+	text-align: center;
+}
+.mb{}
+.ny{
+
+}
+.benefit{}
+.ny1{
+
+}
+.tt{
+	margin: 40px;
+}
+
+.div-img{
+	width: 1000px;
+	height: 500px;
+	background-image: url('../dd/제목\ 없음.png');
+	background-size: 400px;
+	background-position: right bottom;
+}

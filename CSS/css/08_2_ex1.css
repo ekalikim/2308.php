@@ -1,0 +1,32 @@
+div{
+	width: 200px;
+	height: 20px;
+	margin: 5px;
+	border-width: 5px 10px 15px 20px ;
+	/* 하나 전체 두개 상하 좌우 세개 상 좌우 하 네개 상 우 좌 하 */
+}
+
+.div-1{
+	border-style: none;
+}
+.div-2{
+	border-style: solid;
+	border-color: blue;
+
+}
+.div-3{
+	border-style: dotted;
+}
+.div-4{
+	border-style: dashed;
+}
+.div-5{
+	border-style: double;
+}
+.div-6{
+	height: 200px;
+	border: 3px solid #000;
+	border-radius: 10px;
+	/* border-top-left-radius: 10px; */
+	/* border-bottom-right-radius: 10px; */
+}

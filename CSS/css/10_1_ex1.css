@@ -1,0 +1,11 @@
+/* header div span{color: aqua;} */
+header>span {
+	color: bisque;
+}
+/* header>span이라고하면 header 직속의 span에 적용된다. */
+main span+p {
+	color:blue;
+}
+span~p{
+	color:blue ;
+}

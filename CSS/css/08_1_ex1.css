@@ -1,0 +1,27 @@
+div {
+	width: 150px;
+	height: 150px;
+	border: 5px solid #000;
+	padding: 20px;
+	margin: 10px;
+	background-color: antiquewhite;
+
+}
+.div-1{
+	box-sizing: border-box;
+	/* box-sizing: border-box는 width height안에 보더랑 페딩값이 전부 안에 다 들어간값이 150px이되고   */
+}
+.div-2 {
+	box-sizing: content-box;
+	/* box-sizing: content-box는 width랑 height안에 들어간 값이 150px이 된다.  */
+}
+.div-3 {
+	width: 150px;
+	height: 150px;
+	border: 5px solid #000;
+	padding: 20px;
+	margin: 10px;
+	background-color: antiquewhite;
+	box-shadow: 10px 10px 10px 10px #00ff00 inset;
+	/* 가로 세로 번짐정도 번짐크기 */
+}

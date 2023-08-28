@@ -1,0 +1,39 @@
+ul{
+	list-style: none;
+}
+
+legend {
+	font-size: 2em;
+	color: pink;
+}
+body { 
+	margin:0 auto;
+}
+li input:checked + label{
+	color: red;
+}
+.hovertext{
+	float: left;
+}
+
+.hovertext:hover+span{
+	display: block;
+}
+span {
+	display: none;
+}
+.flt {
+	float: left;
+}
+fieldset {
+	background-image: url(../dd/제목\ 없음.png);
+	margin:0 auto;
+	width: 500px;
+}
+.tt{
+ float: left ;
+}
+input :checked {
+	color: red;
+}
+

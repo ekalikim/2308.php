@@ -1,0 +1,13 @@
+body {
+	background-size: cover;
+	background-image: url('../dd/제목\ 없음.png');
+}
+
+.div-img {
+	width: 500px;
+	height: 500px;
+	border: 1px solid #000;
+	background-image: url('../dd/제목\ 없음.png');
+	/* ,							url('../dd/b902958cacfd918e3f6896aee68b33d3.jpg'); */
+	background-size: 100%;
+}

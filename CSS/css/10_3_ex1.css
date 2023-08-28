@@ -1,0 +1,41 @@
+/* a {
+	color: burlywood;
+} */
+a:link {
+	color: purple;
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	background-color: blanchedalmond;
+}
+#input-1:focus {
+	outline: none;
+	border-color: yellow ;
+}
+input:checked + label {
+	color: orange;
+}
+/* checkbox와 radio는 checked로 된다. */
+#target-1:target {
+	background-color: red;
+}
+/* .container :nth-child(4) { 
+color:aqua
+} */
+.container p:nth-of-type(2) { 
+	color:aqua
+	}
+.container :not(p){
+	color: blue;
+}
+#label-2::after {
+	content:'중요';
+}
+.korean-1::first-letter{
+	background-color: black;
+}
+.korean-2::first-line{
+	background-color: black;
+}

@@ -10,6 +10,7 @@ section{
 article {
 	background-color: darkgreen;
 	height: 1000px ;
+	position: relative;
 }
 .div_static{
 	background-color: lightcoral;
@@ -22,7 +23,8 @@ article {
 }
 .div_absolute{
 	background-color:aqua;
-	/* position: absolute; */
+	position: absolute;
+	top: 20px;
 	/* html에서 최상위 계체는 relative를 가지고 있다. */
 }
 .div_fixed{
